@@ -132,6 +132,7 @@ on:
           - s905x3-x96air
           - s905x3-x96air-gb
           - s905x3-x96max
+          - s905x4
           - s912
           - s912-h96pro-plus
           - s912-m8s-pro
@@ -192,7 +193,7 @@ on:
       builder_name:
         description: "Set Nama Builder"
         required: false
-        default: "ST4NGKUDUT"
+        default: "Ajiputra"
 
 env:
   TZ: Asia/Jakarta
